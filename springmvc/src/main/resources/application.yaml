@@ -4,3 +4,7 @@ spring:
   output:
     ansi:
       enabled: always
+
+logging:
+  level:
+    hello.springmvc: debug
