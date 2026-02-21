@@ -1,3 +1,6 @@
 spring:
   application:
     name: springmvc
+  output:
+    ansi:
+      enabled: always
