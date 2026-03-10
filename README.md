@@ -14,4 +14,8 @@
 
 ```bash
 spring-study-archive
-├── core/            # [스프링 핵심 원리 - 기본편] 순수 자바 -> 스프링 전환 실습
+├── core/            # 순수 자바에서 스프링으로의 전환 및 DI/IoC 컨테이너 실습
+├── servlet/         # 서블릿, JSP를 활용한 원시적인 웹 개발과 MVC 패턴의 탄생 과정
+├── springmvc/       # 스프링 MVC 프레임워크의 핵심 구조와 기본 기능(요청/응답) 학습
+├── item-service/    # 타임리프(Thymeleaf), PRG 패턴을 적용한 실전 상품 관리 웹 애플리케이션
+└── jpashop/         # 도메인 모델 설계, JPA 연동 및 웹 애플리케이션 아키텍처 구성
